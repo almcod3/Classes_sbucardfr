@@ -1,4 +1,4 @@
-# rewardsApi
+# MSR Rewards Checker
 
 Checks if your My Starbucks Rewards account has a free drink
 
@@ -11,7 +11,7 @@ node rewards.js -e youraccount@email.com -p youraccount@password
 Returns ```true``` if you have one free drink, ```false``` otherwise
 
 
-##Bulk check
+## Bulk check
 
 If you want to bulk check multiple accounts
 
